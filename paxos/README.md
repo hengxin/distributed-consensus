@@ -3,6 +3,20 @@
 ## Papers
 
 ## Videos
+- [Consensus Algorithms in Distributed Systems](https://youtu.be/9QTcD8RrBP8)
+
+Scale By The Bay, Yifan Xing, 2018 
+
+- [Consensus Algorithms in Distributed Systems](https://youtu.be/8b0K53Qd1fo)
+
+Lambda World, Yifan Xing, Nov 2018
+
+On Paxos, Multi-Paxos, and Raft
+
+> This talk brings the principles used in academia to the industry 
+by introducing the common distributed systems protocols implemented underneath the popular services. 
+In addition, this talk will compare the differences between how the protocols are used 
+in both academia and the industry.
 
 ## Websites Dedicated to Paxos
 - [Paxos Made Moderately Complex](http://paxos.systems/)
